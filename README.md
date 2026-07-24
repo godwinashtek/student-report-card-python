@@ -25,7 +25,7 @@ python student_report_card.py
 
 # Student Report Card
 
-student_name = "Esther Johnson"
+student_name = "Bre Tom"
 age = 17
 subject = "Mathematics"
 score = 91.75
@@ -47,7 +47,7 @@ You passed {subject}.
 ==============================
 STUDENT REPORT
 ==============================
-Student : Esther Johnson
+Student : Bre Tom
 Age : 17 years
 Subject : Mathematics
 Score : 91.75%
