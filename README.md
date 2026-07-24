@@ -51,7 +51,7 @@ Student : Bre Tom
 Age : 17 years
 Subject : Mathematics
 Score : 91.75%
-Congratulations Esther Johnson!
+Congratulations Bre Tom!
 You passed Mathematics.
 ==============================
 ```
